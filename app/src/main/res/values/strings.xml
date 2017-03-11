@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Super Selector</string>
+
+        <string name="hello">Hello World, ListViewMultipleSelectionActivity!</string>
+
+        <string name="result_activity">ResultActivity</string>
+        <string name="select_players_button">Select Players</string>
+
+        <string-array name="sports_array">
+            <item>Dhoni</item>
+            <item>Kohli</item>
+            <item>Yuvraj</item>
+            <item>Rahane</item>
+            <item>Ishanth</item>
+            <item>Mishra</item>
+            <item>Dhawan</item>
+            <item>Raina</item>
+            <item>Rahul</item>
+            <item>Sharma</item>
+            <item>Shami</item>
+            <item>Ashwin</item>
+            <item>Jadeja</item>
+            <item>Pujara</item>
+            <item>Yadav</item>
+        </string-array>
+
+        <string-array name="sports_person_details_array">
+        <item>Name    : Mahendra Singh Dhoni
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Virat Kohli
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Yuvraj Singh
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Ajinkya Rahane
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Ishanth Sharma
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Amit Mishra
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Shikhar Dhawan
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Suresh Raina
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : K.L Rahul
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Rohith Sharma
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Mohammed Shami
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Ravichandran Ashwin
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Ravindra Jadeja
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Cheteshwar Pujara
+              Age     : 35
+              Country : India
+        </item>
+
+        <item>Name    : Umesh Yadav
+              Age     : 35
+              Country : India
+        </item>
+
+        </string-array>
+
+
+
+</resources>
